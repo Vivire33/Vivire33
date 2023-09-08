@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Celia Regina de Oliveira
-- 👀 Sou professora da PEI Dom Antônio José dos Santos
+- 👀 Sou professora da escola PEI Dom Antônio José dos Santos
 - 🌱 Leciono Tecnologia e Inovação no 9º ano A
 
 <!---
